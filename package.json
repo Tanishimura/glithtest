@@ -1,0 +1,22 @@
+{
+  "name": "glithtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tanishimura/glithtest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tanishimura/glithtest/issues"
+  },
+  "homepage": "https://github.com/Tanishimura/glithtest#readme"
+}
+"scripts" : {
+    "start": "node index.js"
+  }
